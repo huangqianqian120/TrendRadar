@@ -1,20 +1,15 @@
-胖东来
-于东来
-
 DeepSeek
 
 华为
 鸿蒙
 HarmonyOS
 
-零售
+智慧零售
 
-京东
-刘强东
+高德
 
 字节
 bytedance
-张一鸣
 
 特斯拉
 马斯克
@@ -46,7 +41,6 @@ mac
 ios
 
 ai
-!gai
 人工智能
 
 自动驾驶
